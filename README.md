@@ -1,6 +1,6 @@
 # CPE232_johnryanmontecalvo
-For Hands-on-Activity 2: SSH Key-Based Authentication and Setting up Git
+CPE 232 - Managing Eterprise Servers
 
-TESTING 1
-TESTING 2
-TESTING 3
+ 1. For Hands-on-Activity 2: SSH Key-Based Authentication and Setting up Git
+
+
